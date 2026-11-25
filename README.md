@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Trabalho com suporte de TI em um escritório de arquitetura e estou direcionando minha carreira para o desenvolvimento back-end. Um dos meus projetos nasceu de uma tarefa do escritório. Para facilitar o inventário de máquinas, comecei a desenvolver um agente em PowerShell que coleta os dados dos computadores e os envia para uma API em Java.
+Trabalho com suporte de TI em um escritório de arquitetura e estou direcionando minha carreira para o desenvolvimento full-stack. Um dos meus projetos nasceu de uma tarefa do escritório. Para facilitar o inventário de máquinas, comecei a desenvolver um agente em PowerShell que coleta os dados dos computadores e os envia para uma API em Java.
 
 Tenho formação em Sistemas de Informação. Gosto de trabalhar na parte da aplicação que transforma uma regra de negócio em código, desde a modelagem do banco de dados até a resposta que a API entrega.
 
@@ -18,13 +18,14 @@ Tenho formação em Sistemas de Informação. Gosto de trabalhar na parte da apl
 | **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql,postgres" height="36" alt="MySQL e PostgreSQL"><br>MySQL · PostgreSQL |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=js,html,css" height="36" alt="JavaScript, HTML e CSS"><br>JavaScript · HTML · CSS |
 | **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker" height="36" alt="Git, GitHub e Docker"><br>Git · GitHub · Docker |
+| **Deploy e hospedagem** | ![Render](https://img.shields.io/badge/Render-4351E8?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white) |
 
 ## Projeto em destaque
 
-### ♻️ RecycloHub
+### 🛒 C9L · E-commerce de eletrônicos
 
-Desenvolvi em equipe uma plataforma para descarte de resíduos eletrônicos. Quem precisa descartar um aparelho pode buscar um ponto de coleta, registrar a entrega e acompanhar seus pontos no ranking. Os administradores gerenciam os pontos de coleta pelo próprio sistema.
+Desenvolvi em dupla uma loja de eletrônicos onde o cliente pode explorar o catálogo, adicionar produtos ao carrinho e finalizar um pedido. A interface em React consome uma API em Java com Spring Boot. No back-end, usamos Spring Security e JWT para autenticar os usuários.
 
-**Tecnologias** · Java · Spring Boot · H2 · JavaScript · HTML · CSS
+**Tecnologias** · Java · Spring Boot · Spring Security · JWT · React
 
-[Explorar o back-end](https://github.com/vCoelh0/RecycloHub) · [Ver o front-end](https://github.com/vCoelh0/RecycloHub-Frontend)
+[**Testar o C9L ↗**](https://c9l-project.vercel.app/)
